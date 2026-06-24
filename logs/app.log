@@ -1,0 +1,11 @@
+[2026-06-23 17:42:47] [CADASTRO] IP: ::1 | Usuário: 6 | Novo usuário criado: roseanemoreiracamperlo@gmail.com[2026-06-23 19:40:21] [CADASTRO] IP: 127.0.0.1 | Usuário: 1 | Novo usuário criado: messiasmdesa463@gmail.com
+[2026-06-24 00:49:15] [CADASTRO] IP: ::1 | Usuário: 9 | Novo usuário criado: arturdedeusfagundes555@gmail.com
+[2026-06-23 19:54:12] [ADMIN_ERRO] IP: desconhecido | Usuário:  | Execução CLI: Erro ao truncar tabelas: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'jk_game_match.chamadas_video' doesn't exist
+[2026-06-23 19:54:24] [ADMIN_ERRO] IP: desconhecido | Usuário:  | Execução CLI: Erro ao truncar tabelas: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?' at line 1
+[2026-06-23 19:54:34] [ADMIN_ERRO] IP: desconhecido | Usuário:  | Execução CLI: Erro ao truncar tabelas: There is no active transaction
+[2026-06-23 19:54:43] [ADMIN] IP: desconhecido | Usuário:  | Execução CLI: Limpeza completa das tabelas de usuários e relacionadas
+[2026-06-24 00:56:15] [CADASTRO] IP: ::1 | Usuário: 1 | Novo usuário criado: messiasmdesa463@gmail.com
+[2026-06-24 00:56:58] [CADASTRO] IP: ::1 | Usuário: 2 | Novo usuário criado: arturdedeusfagundes555@gmail.com
+[2026-06-24 01:18:38] [CADASTRO] IP: ::1 | Usuário: 8 | Novo usuário criado: cristianaronalda@gmail.com
+[2026-06-24 02:01:15] [CADASTRO] IP: ::1 | Usuário: 9 | Novo usuário criado: messiasmdesa463@gmail.com
+[2026-06-24 03:04:46] [CADASTRO] IP: ::1 | Usuário: 10 | Novo usuário criado: messiassds888@gmail.com
